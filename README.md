@@ -31,7 +31,7 @@ To run this project, you must have the following installed on your computer: Int
 # Build Instructions
 Clone the repository to your local machine using 
 
-git clone https://github.com/BohdanUstianivskyi/LaboratoryWork_09
+git clone 
 
 # Results
 Task_1: <br>

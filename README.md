@@ -42,4 +42,6 @@ Task_2: <br>
 
 ![2](https://github.com/BohdanUstianivskyi/LaboratoryWork_09/assets/132481363/3566ce74-a225-46a1-a599-744c2cfef012)
 
+# Support
 
+If you encounter any issues while running the project, please reach out to us at bohdan.ustianivskyi.tr.2021@lpnu.ua
